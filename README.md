@@ -47,12 +47,16 @@ A continuacion seran listados algunos repositorios de GitHub dedicados a la ense
 - [HackerRank](https://www.hackerrank.com/)
 - [Code Watrs](https://www.codewars.com/dashboard) - recomendado
 
-## Comunidades de desarrolladores 
-- Comunidad 1
-- Comunidad 2
+## Comunidades (Discord, Twitter, etc.)
+
+| Comunidad       | Twitter     | Discord     |
+| :------------- | :----------: | -----------: |
+|  One | two   | three    |
 
 ## Articulos y otros recursos
 - [Los apuntes de Majo](https://losapuntesdemajo.now.sh/) 
+https://dev.to/carstenbehrens/how-i-became-a-professional-self-taught-developer-in-germany-while-working-a-full-time-job-djd
+https://aboutmonica.com/blog/how-to-create-a-github-profile-readme
 
 ## Camino de aprendizaje recomendado
 - TBD
