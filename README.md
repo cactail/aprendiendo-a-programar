@@ -38,6 +38,8 @@ La sección [Plataformas para practicar](#plataformas-para-practicar) en este do
 - [Build a todo application](https://enlight.nyc/projects/to-do) 
 - [Construir un sitio personal](https://enlight.nyc/projects/build-a-personal-website) 
 
+---
+
 ## Plataformas de cursos
 A continuación se detallan plataformas recomendadas para aprender programacion. Es aconsejable visitar estas plataformas para empezar a descifrar con cual o cuales uno como estudiante se siente mas comodo de usar a la hora de aprender.
 
