@@ -12,7 +12,7 @@ Entendiendo que la manera mas rapida de conseguir un trabajo en el sector IT es 
 
 Teniendo en cuenta el parrafo anterior, se recomienda empezar con los siguientes recursos:
 
-- Este curso de Coursera llamado [Aprendiendo a aprender](https://www.coursera.org/learn/learning-how-to-learn) (en inglés pero con subtitulos), aunque no esta estrictamente enfocado al desarrollo web es un curso que te provee de buenas herramientas a la hora de aprender cualquier disciplina.
+- Este curso de Coursera llamado [Aprendiendo a aprender](https://www.coursera.org/learn/learning-how-to-learn) (en inglés pero con subtitulos), aunque no esta estrictamente enfocado al desarrollo web es un curso que te provee de buenas herramientas a la hora de aprender cualquier disciplina. Es un gran curso aunque no severamente necesario.
 - La serie ["Nunca he programado"](https://www.youtube.com/watch?v=lcQBY3JsQw4&list=PLpOqH6AE0tNhMCyl-22Q9xoama6cgytg9) de codigofacilito.
 - Este [curso gratuito creado por Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners) sobre desarrollo web, aunque en inglés, totalmente recomendado. 
 
