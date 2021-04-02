@@ -5,10 +5,10 @@
 
 > Como primera recomendación diria que vayan a Google, DuckDuckGo o el motor de busqueda que mas utilicen y ejecuten busquedas como "Que es el desarrollo web?", "Como aprender a programar?" e investiguen un momento por su cuenta dado que _saber googlear_ es una habilidad requerida para cualquier programador/a.
 
-> Esta guia no pretende ser infalible ni mucho menos, desde el entendimiento de que el proceso de aprendizaje difiere en cada persona, este documento es solo un recopilamiento de diversos recursos con la adición de un *Camino de aprendizaje recomendado*.
+> :exclamation: Esta guia no pretende ser infalible ni mucho menos, desde el entendimiento de que el proceso de aprendizaje difiere en cada persona, este documento es solo un recopilamiento de diversos recursos con la adición de un *Camino de aprendizaje recomendado*.
 
 ## Camino de aprendizaje recomendado
-Entendiendo que la manera mas rapida de conseguir un trabajo en el sector IT es en el ambito de programación web, es recomendado comenzar aprendiendo HTML, CSS y JS (JavaScript). Durante el estudio de estos temas tambien se deberian de aprender cuestiones basicas de `git` y el funcionamiento del `browser` (navegador).
+Entendiendo que la manera mas rapida de conseguir un trabajo en el sector IT es en el ambito de programación web, es recomendado comenzar aprendiendo `HTML`, `CSS` y `JS` (`JavaScript`). Durante el estudio de estos temas tambien se deberian de aprender cuestiones basicas de `git` y el funcionamiento del `browser` (navegador).
 
 Teniendo en cuenta el parrafo anterior, se recomienda empezar con los siguientes recursos:
 
@@ -16,14 +16,18 @@ Teniendo en cuenta el parrafo anterior, se recomienda empezar con los siguientes
 - La serie ["Nunca he programado"](https://www.youtube.com/watch?v=lcQBY3JsQw4&list=PLpOqH6AE0tNhMCyl-22Q9xoama6cgytg9) de codigofacilito.
 - Este [curso gratuito creado por Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners) sobre desarrollo web, aunque en inglés, totalmente recomendado. 
 
-Chequear la [sección](README.md#cursos-de-youtube-recomendados-para-comenzar) de este documento tambien es buena idea. 
+Chequear la sección [cursos para comenzar](#cursos-de-youtube-recomendados-para-comenzar) de este documento tambien es buena idea. 
 
 > De nuevo, no es necesario seguir estrictamente este camino, es solamente una recomendación.
+
+:warning: **Es aconsejable estudiar estos conceptos al menos 6 meses. Es regular el error entre principiantes de intentar aprender Javascript 2 semanas, luego Python 2 semanas, luego se pasan a Ruby**
+
+:x: **Tratar de evitar este comportamiento. Centrarse en un lenguage de programación is the way to go si el estudiante esta enfocado en el objetivo de conseguir un primer empleo**
 
 ### Programar, programar y programar
 > Se aprende a programar, valga la redundancia, programando. Asi que dedicarle tiempo a la practica de conceptos estudiados en cursos u otros materiales de estudio es la parte mas crucial a la hora de aprender.
 
-La sección [Plataformas para practicar](README.md#plataformas-para-practicar) en este documento es un buen inicio. Mas recomendado aun es construir proyectos de prueba.
+La sección [Plataformas para practicar](#plataformas-para-practicar) en este documento es un buen inicio. Mas recomendado aun es construir proyectos de prueba.
 
 ### Construir proyectos
 > La mejor forma de aprender lo visto en cursos/articulos es aplicando esos conocimientos para construir un proyecto. Si tenes alguna idea de un proyecto web a construir bienvenido sea. Si no, entonces estos recursos te van a ayudar a encontrar un proyecto a construir.
@@ -32,47 +36,46 @@ La sección [Plataformas para practicar](README.md#plataformas-para-practicar) e
 - [Build a todo application](https://enlight.nyc/projects/to-do) 
 - [Construir un sitio personal](https://enlight.nyc/projects/build-a-personal-website) 
 
-
 ## Plataformas de cursos
 A continuación se detallan plataformas recomendadas para aprender programacion. Es aconsejable visitar estas plataformas para empezar a descifrar con cual o cuales uno como estudiante se siente mas comodo de usar a la hora de aprender.
 
 ### Plataformas gratuitas 
-- [The Odin Project](https://theodinproject.com) - Contenido en inglés
-- [FreeCodeCamp](https://www.freecodecamp.org) - Contenido en inglés y español - :green_circle: __=recomendado=__ :green_circle:
+- [The Odin Project](https://theodinproject.com) - Contenido en inglés :uk:
+- [FreeCodeCamp](https://www.freecodecamp.org) - Contenido en inglés y español :uk: :argentina: - :green_circle: __=recomendado=__ :green_circle:
 
-### Plataformas pagas 
-- [Platzi](https://platzi.com/home) - Contenido en español (contiene una serie de cursos para aprender inglés)
-- [Udemy](https://www.udemy.com) - Contenido en inglés y español 
-- [Coursera](https://www.coursera.org/) - Contenido en inglés y español
+### Plataformas pagas :heavy_dollar_sign:
+- [Platzi](https://platzi.com/home) - Contenido en español (contiene una serie de cursos para aprender inglés) :argentina:
+- [Udemy](https://www.udemy.com) - Contenido en inglés y español :uk: :argentina:
+- [Coursera](https://www.coursera.org/) - Contenido en inglés y español :uk: :argentina:
 
 ## Canales de YouTube recomendados
-- [Programming Knowledge](https://www.youtube.com/c/ProgrammingKnowledge/) - Contenido en inglés
-- [Derek Banas](https://www.youtube.com/c/derekbanas/) - Contenido en inglés
-- [Fazt](https://www.youtube.com/c/FaztTech/videos) - Contenido en español - __=recomendado=__
-- [codigofacilito](https://www.youtube.com/user/codigofacilito) - Contenido en español 
-- [pildorasinformaticas](https://www.youtube.com/c/pildorasinformaticas/) - Contenido en español
+- [Programming Knowledge](https://www.youtube.com/c/ProgrammingKnowledge/) - Contenido en inglés :uk:
+- [Derek Banas](https://www.youtube.com/c/derekbanas/) - Contenido en inglés :uk: - :green_circle: __=recomendado=__ :green_circle:
+- [Fazt](https://www.youtube.com/c/FaztTech/videos) - Contenido en español :argentina: - :green_circle: __= recomendado=__ :green_circle:
+- [codigofacilito](https://www.youtube.com/user/codigofacilito) - Contenido en español :argentina: 
+- [pildorasinformaticas](https://www.youtube.com/c/pildorasinformaticas/) - Contenido en español :argentina:
 
 ### Cursos de Youtube recomendados para comenzar :beginner:
-- [Data Structures and Algorithms](https://www.youtube.com/watch?v=DBFZBWzNuEc&list=PLS1QulWo1RIbHVs3Z_r5cj4pnH2AxfjH9) - Estructuras de Datos y algoritmos - Contenido en inglés
-- [Curso de programación basica](https://www.youtube.com/watch?v=lcQBY3JsQw4&list=PLpOqH6AE0tNhMCyl-22Q9xoama6cgytg9) - Contenido en español
-- [Learn to program](https://www.youtube.com/watch?v=nwjAHQERL08&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) - Contenido en inglés
-- [Bootcamp FullStack Gratuito](https://www.youtube.com/watch?v=wTpuKOhGfJE&list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) - Contenido en español
+- [Data Structures and Algorithms](https://www.youtube.com/watch?v=DBFZBWzNuEc&list=PLS1QulWo1RIbHVs3Z_r5cj4pnH2AxfjH9) - Estructuras de Datos y algoritmos - Contenido en inglés :uk:
+- [Curso de programación basica](https://www.youtube.com/watch?v=lcQBY3JsQw4&list=PLpOqH6AE0tNhMCyl-22Q9xoama6cgytg9) - Contenido en español :argentina:
+- [Learn to program](https://www.youtube.com/watch?v=nwjAHQERL08&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) - Contenido en inglés :uk:
+- [Bootcamp FullStack Gratuito](https://www.youtube.com/watch?v=wTpuKOhGfJE&list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) - Contenido en español :argentina:
 
 ## Repositorios interesantes
 Aca estan listados algunos repositorios de GitHub dedicados a la enseñanza de programacion web. Es absolutamente recomendable visitar y explorar estos repositorios a fin de tener un panorama mas completo del mundo del desarrollo web.
 
 ### Para desarrolladores iniciantes :beginner:
-- [Web Development for beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Desarrollo web para principiantes - Contenido en inglés - __=recomendado=__
-- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Hoja de ruta del Desarrollador - Contenido en inglés - __=recomendado=__
-- [33 conceptos de JavaScript](https://github.com/adonismendozaperez/33-js-conceptos) - Contenido en español
+- [Web Development for beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Desarrollo web para principiantes - Contenido en inglés :uk: - :green_circle: __=recomendado=__ :green_circle:
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) - Hoja de ruta del Desarrollador - Contenido en inglés :uk: - :green_circle: __=recomendado=__ :green_circle:
+- [33 conceptos de JavaScript](https://github.com/adonismendozaperez/33-js-conceptos) - Contenido en español :argentina:
 
 ### Para desarrolladores principiantes o de nivel medio
-- [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners) - Contenido en inglés
-- [Professional Programming](https://github.com/charlax/professional-programming) - Contenido en inglés
+- [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners) - Contenido en inglés :uk:
+- [Professional Programming](https://github.com/charlax/professional-programming) - Contenido en inglés :uk:
 
 ## Plataformas para practicar
 - [HackerRank](https://www.hackerrank.com/)
-- [Code Wars](https://www.codewars.com/dashboard) - __=recomendado=__
+- [Code Wars](https://www.codewars.com/dashboard) - :green_circle: __=recomendado=__ :green_circle:
 
 ## Comunidades
 
@@ -87,7 +90,7 @@ Aca estan listados algunos repositorios de GitHub dedicados a la enseñanza de p
 | [React Ladies](https://www.instagram.com/reactladies.cba/) | https://twitter.com/reactladiescba | -                                        |
 
 ## Articulos y otros recursos
-- [Los apuntes de Majo](https://losapuntesdemajo.now.sh/) 
-- [Te lo explico con gatitos](https://teloexplicocongatitos.com/) 
-- [Como me converti en desarrollador autodidacta profesional teniendo otro trabajo de 8 hs](https://dev.to/carstenbehrens/how-i-became-a-professional-self-taught-developer-in-germany-while-working-a-full-time-job-djd) - __=recomendado=__ 
+- [Los apuntes de Majo](https://losapuntesdemajo.now.sh/) :argentina:
+- [Te lo explico con gatitos](https://teloexplicocongatitos.com/) :argentina:
+- [Como me converti en desarrollador autodidacta profesional teniendo otro trabajo de 8 hs](https://dev.to/carstenbehrens/how-i-became-a-professional-self-taught-developer-in-germany-while-working-a-full-time-job-djd) :uk: - :green_circle: __=recomendado=__ :green_circle: 
 
