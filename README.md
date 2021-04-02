@@ -1,4 +1,4 @@
-# Aprendiendo a progranar
+# Aprendiendo a programar
 ![Aprendiendo a programar](./images/web-programming.jpeg)
 
 > Repositorio creado con el objetivo de proveer recursos (en español y/o inglés) y servir como guía para personas que deseen adentrarse en el mundo de la programación y conseguir un primer trabajo como junior/trainee. Cabe aclarar que lo expuesto a continuación esta especificamente enfocado a lo que es desarrollo web (Web development). Eventualmente se abordaran metodologias de estudio y mas recursos para otras areas del sector IT como ser Quality Assurance (Testing), Gaming development, Cybersecurity, Data Science, como aprender inglés de forma autodidacta, etc.
