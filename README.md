@@ -24,6 +24,8 @@ Chequear la sección [cursos para comenzar](#cursos-de-youtube-recomendados-para
 
 :x: **Tratar de evitar este comportamiento. Centrarse en un lenguage de programación is the way to go si el estudiante esta enfocado en el objetivo de conseguir un primer empleo**
 
+:green_book: **Siempre es recomendable encontrar personas que participen en tu carrera como mentores, durante cualquier proceso que estes atravesando en tu carrera en el sector IT (es aun mas recomendable en el inicio de tu carrera), una persona en el rol de mentor te va a ayudar a navegar y seleccionar recursos, te guiara en el proceso de busqueda de trabajo, etc.**
+
 ### Programar, programar y programar
 > Se aprende a programar, valga la redundancia, programando. Asi que dedicarle tiempo a la practica de conceptos estudiados en cursos u otros materiales de estudio es la parte mas crucial a la hora de aprender.
 
