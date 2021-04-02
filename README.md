@@ -20,7 +20,7 @@ Chequear la sección [cursos para comenzar](#cursos-de-youtube-recomendados-para
 
 > De nuevo, no es necesario seguir estrictamente este camino, es solamente una recomendación.
 
-:warning: **Es aconsejable estudiar estos conceptos al menos 6 meses. Es regular el error entre principiantes de intentar aprender Javascript 2 semanas, luego Python 2 semanas, luego se pasan a Ruby**
+:warning: **Es aconsejable estudiar estos conceptos al menos 6 meses. Es bien conocido el error entre programadores de todos los niveles de intentar aprender una tecnologia 2 semanas y luego intentar aprender otra tecnologia distinta las siguientes 2 semanas. Por ejemplo: _tratar de aprender JavaScript 2 semanas y luego C++ las siguientes 2 semanas_**
 
 :x: **Tratar de evitar este comportamiento. Centrarse en un lenguage de programación is the way to go si el estudiante esta enfocado en el objetivo de conseguir un primer empleo**
 
